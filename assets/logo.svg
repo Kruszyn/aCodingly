@@ -1,0 +1,7 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="215" height="79" viewBox="0 0 215 79">
+  <g id="logo-2" data-name="logo">
+    <path id="Rectangle_3" data-name="Rectangle 3" d="M45,0H77a0,0,0,0,1,0,0V60a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V45A45,45,0,0,1,45,0Z" transform="translate(0 7)" fill="#fc3264"/>
+    <text id="aC" transform="translate(8 62)" fill="#fff" font-size="57" font-family="SegoeUI, Segoe UI" letter-spacing="-0.045em"><tspan x="0" y="0">aC</tspan></text>
+  </g>
+  <text id="odingly" transform="translate(77 71)" fill="#fc3264" font-size="31" font-family="Gadugi-Bold, Gadugi" font-weight="700"><tspan x="0" y="0">ODINGLY</tspan></text>
+</svg>
